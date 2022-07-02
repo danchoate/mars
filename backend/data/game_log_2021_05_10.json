@@ -1,0 +1,65 @@
+{
+    "date": "2021-05-10",
+    "milestones": [
+        {"name": "gardener", "winner": "dan"},
+        {"name": "mayor", "winner": "dan"},
+        {"name": "planner", "winner": "wagner"}
+    ],
+    "awards": [
+        {"name": "landlord", "first": "dan", "second": "andy"},
+        {"name": "scientist", "first": "wagner"},
+        {"name": "thermalist", "first": "jez", "second": "andy"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "beginner",
+            "tr": 36,
+            "vp": 6,
+            "board": 2,
+            "bonus": 4,
+            "total": 57
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "beginner",
+            "tr": 29,
+            "vp": 11,
+            "board": 6,
+            "bonus": 10,
+            "total": 56
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "beginner",
+            "tr": 24,
+            "vp": 16,
+            "board": 2,
+            "bonus": 7,
+            "total": 49
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "beginner",
+            "tr": 35,
+            "vp": 5,
+            "board": 13,
+            "bonus": 2,
+            "total": 55
+        },
+        {
+            "name": "dan",
+            "order": 5,
+            "corp": "beginner",
+            "tr": 29,
+            "vp": 3,
+            "board": 2,
+            "bonus": 17,
+            "total": 60
+        }
+    ]
+}

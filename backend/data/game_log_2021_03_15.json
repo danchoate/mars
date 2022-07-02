@@ -1,0 +1,64 @@
+{
+    "date": "2021-03-15",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "mayor"},
+        {"name": "builder"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "thorgate",
+            "tr": 35,
+            "vp": 4,
+            "board": 5,
+            "bonus": 10,
+            "total": 55
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "credicor",
+            "tr": 30,
+            "vp": 4,
+            "board": 10,
+            "bonus": 7,
+            "total": 55
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "ecoline",
+            "tr": 30,
+            "vp": 4,
+            "board": 7,
+            "bonus": 0,
+            "total": 48
+        },
+        {
+            "name": "jez",
+            "order": 4,
+            "corp": "robinson",
+            "tr": 26,
+            "vp": 1,
+            "board": 9,
+            "bonus": 12,
+            "total": 56
+        },
+        {
+            "name": "dan",
+            "order": 5,
+            "corp": "valley trust",
+            "tr": 30,
+            "vp": 12,
+            "board": 3,
+            "bonus": 7,
+            "total": 58
+        }
+    ]
+}

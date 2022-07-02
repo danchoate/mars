@@ -1,0 +1,67 @@
+{
+    "date": "2022-03-07",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "helion",
+            "tr": 28,
+            "vp": 4,
+            "board": 11,
+            "bonus": 2,
+            "total": 45
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "unmi",
+            "tr": 35,
+            "vp": 4,
+            "board": 7,
+            "bonus": 10,
+            "total": 56,
+            "hbc": 9
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 36,
+            "vp": 6,
+            "board": 8,
+            "bonus": 2,
+            "total": 52
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "cheung sing",
+            "tr": 28,
+            "vp": 4,
+            "board": 6,
+            "bonus": 12,
+            "total": 50,
+            "hbc": 9
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "mining",
+            "tr": 28,
+            "vp": 6,
+            "board": 3,
+            "bonus": 10,
+            "total": 47
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "date": "2021-09-13",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "valley trust",
+            "tr": 34,
+            "vp": 8,
+            "board": 10,
+            "bonus": 2,
+            "total": 54
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "inventrix",
+            "tr": 30,
+            "vp": 9,
+            "board": 17,
+            "bonus": 7,
+            "total": 63,
+            "tie_breaker": 2
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "point luna",
+            "tr": 31,
+            "vp": 1,
+            "board": 4,
+            "bonus": 2,
+            "total": 38,
+            "hbc": 8
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "cheung sing",
+            "tr": 28,
+            "vp": 4,
+            "board": 8,
+            "bonus": 15,
+            "total": 55
+        },
+        {
+            "name": "todd",
+            "order": 5,
+            "corp": "unmi",
+            "tr": 34,
+            "vp": 6,
+            "board": 11,
+            "bonus": 12,
+            "total": 63,
+            "tie_breaker": 1
+        }
+    ]
+}

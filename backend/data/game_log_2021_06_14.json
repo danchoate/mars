@@ -1,0 +1,68 @@
+{
+    "date": "2021-06-14",
+    "milestones": [
+        {"name": "builder", "winner": "dan"},
+        {"name": "terraformer", "winner": "todd"}
+    ],
+    "awards": [
+        {"name": "thermalist"},
+        {"name": "miner"},
+        {"name": "banker"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "mining",
+            "tr": 27,
+            "vp": 8,
+            "board": 6,
+            "bonus": 10,
+            "total": 51
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "point luna",
+            "tr": 37,
+            "vp": 5,
+            "board": 9,
+            "bonus": 5,
+            "total": 57,
+            "hbc": 3,
+            "tie_breaker": 2
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "saturn",
+            "tr": 25,
+            "vp": 14,
+            "board": 6,
+            "bonus": 12,
+            "total": 57,
+            "tie_breaker": 1
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "cheung sing",
+            "tr": 28,
+            "vp": 4,
+            "board": 14,
+            "bonus": 9,
+            "total": 54,
+            "hbc": 10
+        },
+        {
+            "name": "jez",
+            "order": 5,
+            "corp": "valley trust",
+            "tr": 34,
+            "vp": 9,
+            "board": 9,
+            "bonus": 0,
+            "total": 52
+        }
+    ]
+}

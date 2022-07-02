@@ -1,0 +1,65 @@
+{
+    "date": "2021-05-17",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "builder"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "thermalist"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "ecoline",
+            "tr": 32,
+            "vp": 15,
+            "board": 18,
+            "bonus": 2,
+            "total": 68
+        },
+        {
+            "name": "dan",
+            "order": 2,
+            "corp": "credicor",
+            "tr": 28,
+            "vp": 27,
+            "board": 6,
+            "bonus": 4,
+            "total": 65
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "vitor",
+            "tr": 34,
+            "vp": 15,
+            "board": 12,
+            "bonus": 10,
+            "total": 71
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "point luna",
+            "tr": 33,
+            "vp": 6,
+            "board": 18,
+            "bonus": 7,
+            "total": 64
+        },
+        {
+            "name": "jez",
+            "order": 5,
+            "corp": "robinson",
+            "tr": 22,
+            "vp": 10,
+            "board": 17,
+            "bonus": 15,
+            "total": 64
+        }
+    ]
+}

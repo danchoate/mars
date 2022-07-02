@@ -1,0 +1,67 @@
+{
+    "date": "2021-11-22",
+    "milestones": [
+        {"name": "builder", "winner": "dan"},
+        {"name": "terraformer", "winner": "wagner"},
+        {"name": "mayor", "winner": "todd"}
+    ],
+    "awards": [
+        {"name": "landlord"},
+        {"name": "scientist"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "todd",
+            "order": 1,
+            "corp": "robinson",
+            "tr": 28,
+            "vp": 7,
+            "board": 15,
+            "bonus": 9,
+            "total": 59,
+            "hbc": 16
+        },
+        {
+            "name": "jez",
+            "order": 2,
+            "corp": "vitor",
+            "tr": 29,
+            "vp": 8,
+            "board": 18,
+            "bonus": 7,
+            "total": 62,
+            "hbc": 3
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 35,
+            "vp": 15,
+            "board": 6,
+            "bonus": 5,
+            "total": 61
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "phobolog",
+            "tr": 28,
+            "vp": 19,
+            "board": 8,
+            "bonus": 10,
+            "total": 65
+        },
+        {
+            "name": "wagner",
+            "order": 5,
+            "corp": "unmi",
+            "tr": 44,
+            "vp": 15,
+            "board": 5,
+            "bonus": 5,
+            "total": 69
+        }
+    ]
+}

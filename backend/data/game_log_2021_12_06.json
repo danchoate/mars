@@ -1,0 +1,66 @@
+{
+    "date": "2021-12-06",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "scientist"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "cheung sing",
+            "tr": 34,
+            "vp": 13,
+            "board": 12,
+            "bonus": 10,
+            "total": 69
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "vitor",
+            "tr": 29,
+            "vp": 22,
+            "board": 10,
+            "bonus": 7,
+            "total": 68
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "unmi",
+            "tr": 37,
+            "vp": 2,
+            "board": 11,
+            "bonus": 5,
+            "total": 55
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "thorgate",
+            "tr": 26,
+            "vp": 5,
+            "board": 18,
+            "bonus": 12,
+            "total": 61,
+            "hbc": 8
+        },
+        {
+            "name": "todd",
+            "order": 5,
+            "corp": "point luna",
+            "tr": 29,
+            "vp": 14,
+            "board": 13,
+            "bonus": 5,
+            "total": 61
+        }
+    ]
+}

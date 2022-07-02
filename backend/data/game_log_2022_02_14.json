@@ -1,0 +1,57 @@
+{
+    "date": "2022-02-14",
+    "milestones": [
+        {"name": "terraformer"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"},
+        {"name": "landlord"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "phobolog",
+            "tr": 29,
+            "vp": 17,
+            "board": 23,
+            "bonus": 15,
+            "total": 84
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "valley trust",
+            "tr": 28,
+            "vp": 10,
+            "board": 23,
+            "bonus": 12,
+            "total": 73
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "helion",
+            "tr": 33,
+            "vp": 11,
+            "board": 25,
+            "bonus": 10,
+            "total": 79,
+            "hbc": 6
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "credicor",
+            "tr": 42,
+            "vp": 16,
+            "board": 9,
+            "bonus": 7,
+            "total": 74,
+            "hbc": 5
+        }
+    ]
+}

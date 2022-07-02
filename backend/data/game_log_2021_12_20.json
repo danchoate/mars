@@ -1,0 +1,55 @@
+{
+    "date": "2021-12-20",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "scientist"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "unmi",
+            "tr": 42,
+            "vp": 9,
+            "board": 13,
+            "bonus": 5,
+            "total": 69
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "cheung sing",
+            "tr": 35,
+            "vp": 9,
+            "board": 12,
+            "bonus": 12,
+            "total": 68
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "robinson",
+            "tr": 33,
+            "vp": 7,
+            "board": 30,
+            "bonus": 9,
+            "total": 79
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "valley trust",
+            "tr": 28,
+            "vp": 5,
+            "board": 28,
+            "bonus": 10,
+            "total": 71
+        }
+    ]
+}

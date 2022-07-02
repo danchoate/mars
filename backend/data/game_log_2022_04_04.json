@@ -1,0 +1,66 @@
+{
+    "date": "2022-04-04",
+    "milestones": [
+        {"name": "builder", "winner": "todd"},
+        {"name": "gardener", "winner": "todd"},
+        {"name": "mayor", "winner": "andy"}
+    ],
+    "awards": [
+        {"name": "landlord", "winner": "todd", "funder": "todd"},
+        {"name": "thermalist", "winner": "jez", "funded": "jez"},
+        {"name": "scientist", "winner": "jez", "funded": "jez"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "robinson",
+            "tr": 31,
+            "vp": 5,
+            "board": 5,
+            "bonus": 10,
+            "total": 51
+        },
+        {
+            "name": "dan",
+            "order": 2,
+            "corp": "ecoline",
+            "tr": 27,
+            "vp": 7,
+            "board": 13,
+            "bonus": 4,
+            "total": 51,
+            "hbc": 3
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "unmi",
+            "tr": 31,
+            "vp": 3,
+            "board": 9,
+            "bonus": 15,
+            "total": 58
+        },
+        {
+            "name": "wagner",
+            "order": 4,
+            "corp": "point luna",
+            "tr": 30,
+            "vp": 8,
+            "board": 14,
+            "bonus": 2,
+            "total": 54
+        },
+        {
+            "name": "andy",
+            "order": 5,
+            "corp": "terractor",
+            "tr": 34,
+            "vp": -2,
+            "board": 13,
+            "bonus": 7,
+            "total": 52
+        }
+    ]
+}

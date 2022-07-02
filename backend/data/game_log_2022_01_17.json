@@ -1,0 +1,68 @@
+{
+    "date": "2022-01-17",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "terraformer"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "scientist"},
+        {"name": "thermalist", "winner": "jez"}
+    ],
+    "players": [
+        {
+            "name": "todd",
+            "order": 1,
+            "corp": "unmi",
+            "tr": 32,
+            "vp": 2,
+            "board": 10,
+            "bonus": 5,
+            "total": 49
+        },
+        {
+            "name": "jez",
+            "order": 2,
+            "corp": "cheung sing",
+            "tr": 28,
+            "vp": 4,
+            "board": 7,
+            "bonus": 12,
+            "total": 51,
+            "hbc": 5
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 29,
+            "vp": 5,
+            "board": 6,
+            "bonus": 4,
+            "total": 44,
+            "hbc": 8
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "credicor",
+            "tr": 29,
+            "vp": 12,
+            "board": 7,
+            "bonus": 10,
+            "total": 58
+        },
+        {
+            "name": "wagner",
+            "order": 5,
+            "corp": "helion",
+            "tr": 38,
+            "vp": -1,
+            "board": 8,
+            "bonus": 5,
+            "total": 49,
+            "hbc": 4
+        }
+    ]
+}

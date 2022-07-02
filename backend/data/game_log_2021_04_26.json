@@ -1,0 +1,73 @@
+{
+    "date": "2021-04-26",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "builder"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "thermalist"},
+        {"name": "miner"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "vitor",
+            "tr": 27,
+            "vp": 22,
+            "board": 5,
+            "bonus": 7,
+            "total": 61,
+            "notes": [
+                "played mass converter",
+                "played anti-grav",
+                "played phsyics complex"
+            ]
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "cheung sing",
+            "tr": 37,
+            "vp": 4,
+            "board": 19,
+            "bonus": 5,
+            "total": 65
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "credicor",
+            "tr": 37,
+            "vp": 3,
+            "board": 14,
+            "bonus": 10,
+            "total": 64,
+            "hbc": 3
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "mining",
+            "tr": 29,
+            "vp": 5,
+            "board": 2,
+            "bonus": 5,
+            "total": 46,
+            "hbc": 4
+        },
+        {
+            "name": "dan",
+            "order": 5,
+            "corp": "unmi",
+            "tr": 32,
+            "vp": 8,
+            "board": 7,
+            "bonus": 4,
+            "total": 51,
+            "hbc": 4
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "date": "2022-01-31",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker", "winner": "wagner"},
+        {"name": "miner", "winner": "dan"},
+        {"name": "thermalist", "winner": "jez"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "thorgate",
+            "tr": 33,
+            "vp": 5,
+            "board": 18,
+            "bonus": 5,
+            "total": 61,
+            "tie_breaker": 1
+        },
+        {
+            "name": "dan",
+            "order": 2,
+            "corp": "point luna",
+            "tr": 29,
+            "vp": 9,
+            "board": 12,
+            "bonus": 17,
+            "total": 67
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "robinson",
+            "tr": 35,
+            "vp": 7,
+            "board": 17,
+            "bonus": 5,
+            "total": 61,
+            "hbc": 3,
+            "tie_breaker": 2
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "ecoline",
+            "tr": 34,
+            "vp": 1,
+            "board": 23,
+            "bonus": 5,
+            "total": 63,
+            "hbc": 10
+        },
+        {
+            "name": "wagner",
+            "order": 5,
+            "corp": "vitor",
+            "tr": 30,
+            "vp": 18,
+            "board": 16,
+            "bonus": 7,
+            "total": 71
+        }
+    ]
+}

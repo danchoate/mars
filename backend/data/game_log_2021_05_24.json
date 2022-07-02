@@ -1,0 +1,66 @@
+{
+    "date": "2021-05-24",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "builder"}
+    ],
+    "awards": [
+        {"name": "miner"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "mining",
+            "tr": 23,
+            "vp": 16,
+            "board": 11,
+            "bonus": 15,
+            "total": 65
+        },
+        {
+            "name": "jes",
+            "order": 2,
+            "corp": "cheung sing",
+            "tr": 34,
+            "vp": 5,
+            "board": 16,
+            "bonus": 7,
+            "total": 62
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "unmi",
+            "tr": 39,
+            "vp": 20,
+            "board": 7,
+            "bonus": 0,
+            "total": 66,
+            "tie_breaker": 1
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "robinson",
+            "tr": 30,
+            "vp": 12,
+            "board": 17,
+            "bonus": 7,
+            "total": 66,
+            "tie_breaker": 3,
+            "hbc": 8
+        },
+        {
+            "name": "wagner",
+            "order": 5,
+            "corp": "ecoline",
+            "tr": 31,
+            "vp": 6,
+            "board": 22,
+            "bonus": 7,
+            "total": 66,
+            "tie_breaker": 2
+        }
+    ]
+}

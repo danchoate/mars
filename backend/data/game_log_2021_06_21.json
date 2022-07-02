@@ -1,0 +1,57 @@
+{
+    "date": "2021-06-21",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "mayor"},
+        {"name": "terraformer"}
+    ],
+    "awards": [
+        {"name": "thermalist"},
+        {"name": "landlord"},
+        {"name": "banker"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "phobolog",
+            "tr": 30,
+            "vp": 29,
+            "board": 13,
+            "bonus": 7,
+            "total": 79,
+            "hbc": 5
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "inventrix",
+            "tr": 40,
+            "vp": 13,
+            "board": 6,
+            "bonus": 10,
+            "total": 69
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 31,
+            "vp": 7,
+            "board": 18,
+            "bonus": 9,
+            "total": 65,
+            "hbc": 7
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "robinson",
+            "tr": 33,
+            "vp": 6,
+            "board": 23,
+            "bonus": 15,
+            "total": 77
+        }
+    ]
+}

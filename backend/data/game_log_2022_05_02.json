@@ -1,0 +1,55 @@
+{
+    "date": "2022-05-02",
+    "milestones": [
+        {"name": "explorer", "winner": "andy"},
+        {"name": "energizer", "winner": "todd"},
+        {"name": "rim settler", "winner": "dan"}
+    ],
+    "awards": [
+        {"name": "cultivator", "winner": "andy"},
+        {"name": "space baron", "winner": "dan"},
+        {"name": "eccentric", "winner": "todd"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "ecoline",
+            "tr": 37,
+            "vp": 4,
+            "board": 23,
+            "bonus": 5,
+            "total": 69
+        },
+        {
+            "name": "dan",
+            "order": 2,
+            "corp": "saturn systems",
+            "tr": 31,
+            "vp": 27,
+            "board": 9,
+            "bonus": 12,
+            "total": 79
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "tharsis",
+            "tr": 32,
+            "vp": 1,
+            "board": 25,
+            "bonus": 7,
+            "total": 65
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "inventrix",
+            "tr": 38,
+            "vp": 17,
+            "board": 3,
+            "bonus": 12,
+            "total": 70
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "date": "2022-06-13",
+    "milestones": [
+        {"name": "generalist", "winner": "dan"},
+        {"name": "specialist", "winner": "andy"},
+        {"name": "ecologist", "winner": "jez"}
+    ],
+    "awards": [
+        {"name": "industrialist", "winner": "andy"},
+        {"name": "estate dealer", "winner": "jez"},
+        {"name": "benefactor", "winner": "todd"}
+    ],
+    "players": [
+        {
+            "name": "jez",
+            "order": 1,
+            "corp": "phobolog",
+            "tr": 34,
+            "vp": 7,
+            "board": 18,
+            "bonus": 12,
+            "total": 71
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "vitor",
+            "tr": 28,
+            "vp": 12,
+            "board": 8,
+            "bonus": 10,
+            "total": 58
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "unmi",
+            "tr": 45,
+            "vp": 5,
+            "board": 9,
+            "bonus": 5,
+            "total": 64,
+            "hbc": 3
+        },
+        {
+            "name": "wagner",
+            "order": 4,
+            "corp": "ecoline",
+            "tr": 28,
+            "vp": 9,
+            "board": 20,
+            "bonus": 5,
+            "total": 61
+        },
+        {
+            "name": "dan",
+            "order": 5,
+            "corp": "robinson",
+            "tr": 28,
+            "vp": 10,
+            "board": 9,
+            "bonus": 10,
+            "total": 57
+        }
+    ]
+}

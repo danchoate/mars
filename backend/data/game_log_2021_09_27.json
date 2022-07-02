@@ -1,0 +1,65 @@
+{
+    "date": "2021-09-27",
+    "milestones": [
+        {"name": "terraformer"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "scientist"},
+        {"name": "miner"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "valley trust",
+            "tr": 28,
+            "vp": 1,
+            "board": 18,
+            "bonus": 0,
+            "total": 47
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "unmi",
+            "tr": 35,
+            "vp": 1,
+            "board": 0,
+            "bonus": 12,
+            "total": 48
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "teractor",
+            "tr": 29,
+            "vp": 7,
+            "board": 9,
+            "bonus": 14,
+            "total": 59
+        },
+        {
+            "name": "wagner",
+            "order": 4,
+            "corp": "thorgate",
+            "tr": 35,
+            "vp": 2,
+            "board": 4,
+            "bonus": 5,
+            "total": 46
+        },
+        {
+            "name": "jez",
+            "order": 5,
+            "corp": "saturn",
+            "tr": 28,
+            "vp": 11,
+            "board": 6,
+            "bonus": 7,
+            "total": 52
+        }
+    ]
+}

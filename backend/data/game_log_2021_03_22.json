@@ -1,0 +1,57 @@
+{
+    "date": "2021-03-22",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "mayor"},
+        {"name": "builder"}
+    ],
+    "awards": [
+        {"name": "landlord"},
+        {"name": "miner"},
+        {"name": "thermalist"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "valley trust",
+            "tr": 33,
+            "vp": 7,
+            "board": 15,
+            "bonus": 6,
+            "total": 61
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "helion",
+            "tr": 37,
+            "vp": 4,
+            "board": 20,
+            "bonus": 7,
+            "total": 68
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "thorgate",
+            "tr": 35,
+            "vp": 6,
+            "board": 6,
+            "bonus": 15,
+            "total": 62,
+            "hbc": 5
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "credicor",
+            "tr": 30,
+            "vp": 18,
+            "board": 15,
+            "bonus": 10,
+            "total": 73,
+            "hbc": 3
+        }
+    ]
+}

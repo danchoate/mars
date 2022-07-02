@@ -1,0 +1,65 @@
+{
+    "date": "2021-08-30",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "miner"},
+        {"name": "landlord"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "thorgate",
+            "tr": 30,
+            "vp": 14,
+            "board": 14,
+            "bonus": 2,
+            "total": 60
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "ecoline",
+            "tr": 35,
+            "vp": 3,
+            "board": 26,
+            "bonus": 12,
+            "total": 76
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "credicor",
+            "tr": 25,
+            "vp": 12,
+            "board": 18,
+            "bonus": 5,
+            "total": 60
+        },
+        {
+            "name": "jez",
+            "order": 4,
+            "corp": "robinson",
+            "tr": 29,
+            "vp": 10,
+            "board": 13,
+            "bonus": 12,
+            "total": 64
+        },
+        {
+            "name": "dan",
+            "order": 5,
+            "corp": "unmi",
+            "tr": 40,
+            "vp": 2,
+            "board": 16,
+            "bonus": 6,
+            "total": 63
+        }
+    ]
+}

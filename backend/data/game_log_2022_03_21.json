@@ -1,0 +1,69 @@
+{
+    "date": "2022-03-21",
+    "milestones": [
+        {"name": "builder", "winner": "jez"},
+        {"name": "gardener", "winner": "todd"},
+        {"name": "mayor", "winner": "dan"}
+    ],
+    "awards": [
+        {"name": "landlord", "winner": "todd"},
+        {"name": "thermalist", "winner": "andy"},
+        {"name": "scientist", "winner": "dan"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "vitor",
+            "tr": 25,
+            "vp": 10,
+            "board": 7,
+            "bonus": 10,
+            "total": 52,
+            "tie_breaker": 2
+        },
+        {
+            "name": "jez",
+            "order": 2,
+            "corp": "mining",
+            "tr": 28,
+            "vp": 3,
+            "board": 6,
+            "bonus": 9,
+            "total": 46,
+            "hbc": 5
+        },
+        {
+            "name": "andy",
+            "order": 3,
+            "corp": "helion",
+            "tr": 36,
+            "vp": 8,
+            "board": 4,
+            "bonus": 5,
+            "total": 53
+        },
+        {
+            "name": "wagner",
+            "order": 4,
+            "corp": "thorgate",
+            "tr": 28,
+            "vp": 20,
+            "board": 0,
+            "bonus": 4,
+            "total": 52,
+            "tie_breaker": 1
+        },
+        {
+            "name": "todd",
+            "order": 4,
+            "corp": "robinson",
+            "tr": 31,
+            "vp": 4,
+            "board": 11,
+            "bonus": 10,
+            "total": 56,
+            "hbc": 2
+        }
+    ]
+}

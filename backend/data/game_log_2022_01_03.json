@@ -1,0 +1,67 @@
+{
+    "date": "2022-01-03",
+    "milestones": [
+        {"name": "builder"},
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"}
+    ],
+    "players": [
+        {
+            "name": "todd",
+            "order": 1,
+            "corp": "valley trust",
+            "tr": 27,
+            "vp": 7,
+            "board": 14,
+            "bonus": 7,
+            "total": 55,
+            "hbc": 4
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "saturn",
+            "tr": 35,
+            "vp": 8,
+            "board": 6,
+            "bonus": 5,
+            "total": 54
+        },
+        {
+            "name": "wagner",
+            "order": 3,
+            "corp": "credicor",
+            "tr": 31,
+            "vp": 8,
+            "board": 13,
+            "bonus": 10,
+            "total": 62,
+            "hbc": 6
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "point luna",
+            "tr": 29,
+            "vp": 17,
+            "board": 10,
+            "bonus": 12,
+            "total": 68,
+            "hbc": 3
+        },
+        {
+            "name": "jez",
+            "order": 5,
+            "corp": "helion",
+            "tr": 25,
+            "vp": 10,
+            "board": 18,
+            "bonus": 5,
+            "total": 58
+        }
+    ]
+}

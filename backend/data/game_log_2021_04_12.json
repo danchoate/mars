@@ -1,0 +1,65 @@
+{
+    "date": "2021-04-12",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "builder"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "wagner",
+            "order": 1,
+            "corp": "ecoline",
+            "tr": 36,
+            "vp": 5,
+            "board": 11,
+            "bonus": 0,
+            "total": 53
+        },
+        {
+            "name": "andy",
+            "order": 2,
+            "corp": "interplanetary",
+            "tr": 34,
+            "vp": 9,
+            "board": 10,
+            "bonus": 5,
+            "total": 58
+        },
+        {
+            "name": "todd",
+            "order": 3,
+            "corp": "helion",
+            "tr": 24,
+            "vp": 4,
+            "board": 10,
+            "bonus": 7,
+            "total": 47
+        },
+        {
+            "name": "dan",
+            "order": 4,
+            "corp": "unmi",
+            "tr": 36,
+            "vp": 1,
+            "board": 6,
+            "bonus": 9,
+            "total": 52
+        },
+        {
+            "name": "jez",
+            "order": 5,
+            "corp": "valley trust",
+            "tr": 23,
+            "vp": 11,
+            "board": 10,
+            "bonus": 15,
+            "total": 59
+        }
+    ]
+}

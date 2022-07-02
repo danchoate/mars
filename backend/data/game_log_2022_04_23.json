@@ -1,0 +1,69 @@
+{
+    "date": "2022-04-23",
+    "milestones": [
+        {"name": "ecologist", "winner": "todd"},
+        {"name": "generalist", "winner": "wagner"},
+        {"name": "specialist", "winner": "jez"}
+    ],
+    "awards": [
+        {"name": "estate dealer"},
+        {"name": "industrialist"},
+        {"name": "benefactor"}
+    ],
+    "players": [
+        {
+            "name": "dan",
+            "order": 1,
+            "corp": "ecoline",
+            "tr": 29,
+            "vp": 10,
+            "board": 17,
+            "bonus": 2,
+            "total": 58,
+            "tie_breaker": 4
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "robinson",
+            "tr": 31,
+            "vp": 6,
+            "board": 9,
+            "bonus": 12,
+            "total": 58,
+            "tie_breaker": 2
+        },
+        {
+            "name": "jez",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 39,
+            "vp": 3,
+            "board": 15,
+            "bonus": 15,
+            "total": 72
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "phobolog",
+            "tr": 31,
+            "vp": 21,
+            "board": 2,
+            "bonus": 4,
+            "total": 58,
+            "tie_breaker": 3        
+        },
+        {
+            "name": "todd",
+            "order": 5,
+            "corp": "vitor",
+            "tr": 23,
+            "vp": 14,
+            "board": 16,
+            "bonus": 5,
+            "total": 58,
+            "tie_breaker": 1
+        }
+    ]
+}

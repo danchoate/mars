@@ -1,0 +1,66 @@
+{
+    "date": "2021-07-19",
+    "milestones": [
+        {"name": "builder", "winner": "jez"},
+        {"name": "gardener"},
+        {"name": "mayor", "winner": "wagner"}
+    ],
+    "awards": [
+        {"name": "banker"},
+        {"name": "miner"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "mining",
+            "tr": 28,
+            "vp": 24,
+            "board": 8,
+            "bonus": 10,
+            "total": 70
+        },
+        {
+            "name": "todd",
+            "order": 2,
+            "corp": "thorgate",
+            "tr": 28,
+            "vp": 11,
+            "board": 13,
+            "bonus": 2,
+            "total": 54
+        },
+        {
+            "name": "dan",
+            "order": 3,
+            "corp": "valley trust",
+            "tr": 33,
+            "vp": 15,
+            "board": 18,
+            "bonus": 2,
+            "total": 69
+        },
+        {
+            "name": "jez",
+            "order": 4,
+            "corp": "cheung sing",
+            "tr": 28,
+            "vp": 5,
+            "board": 23,
+            "bonus": 10,
+            "total": 67
+        },
+        {
+            "name": "wagner",
+            "order": 5,
+            "corp": "teractor",
+            "tr": 33,
+            "vp": 3,
+            "board": 20,
+            "bonus": 12,
+            "total": 68,
+            "hbc": 6
+        }
+    ]
+}

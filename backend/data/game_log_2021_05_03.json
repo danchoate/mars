@@ -1,0 +1,55 @@
+{
+    "date": "2021-05-03",
+    "milestones": [
+        {"name": "gardener"},
+        {"name": "mayor"}
+    ],
+    "awards": [
+        {"name": "thermalist"},
+        {"name": "landlord"},
+        {"name": "scientist"}
+    ],
+    "players": [
+        {
+            "name": "todd",
+            "order": 1,
+            "corp": "vitor",
+            "tr": 39,
+            "vp": 6,
+            "board": 20,
+            "bonus": 10,
+            "total": 75
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "phobolog",
+            "tr": 30,
+            "vp": 31,
+            "board": 7,
+            "bonus": 7,
+            "total": 75
+        },
+        {
+            "name": "dan",
+            "order": 3,
+            "corp": "robinson",
+            "tr": 34,
+            "vp": 17,
+            "board": 10,
+            "bonus": 4,
+            "total": 65,
+            "hbc": 3
+        },
+        {
+            "name": "andy",
+            "order": 4,
+            "corp": "cheung sing",
+            "tr": 32,
+            "vp": 17,
+            "board": 12,
+            "bonus": 17,
+            "total": 78
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "date": "2022-05-16",
+    "milestones": [
+        {"name": "generalist", "winner": "dan"},
+        {"name": "specialist", "winner": "todd"},
+        {"name": "ecologist", "winner": "wagner"}
+    ],
+    "awards": [
+        {"name": "celebrity", "winner": "dan"},
+        {"name": "estate dealer", "winner": "andy"},
+        {"name": "desert settler", "winner": "wagner"}
+    ],
+    "players": [
+        {
+            "name": "andy",
+            "order": 1,
+            "corp": "tharsis",
+            "tr": 33,
+            "vp": 21,
+            "board": 16,
+            "bonus": 7,
+            "total": 77
+        },
+        {
+            "name": "wagner",
+            "order": 2,
+            "corp": "ecoline",
+            "tr": 25,
+            "vp": 10,
+            "board": 23,
+            "bonus": 10,
+            "total": 68,
+            "hbc": 7
+        },
+        {
+            "name": "dan",
+            "order": 3,
+            "corp": "saturn",
+            "tr": 31,
+            "vp": 18,
+            "board": 10,
+            "bonus": 10,
+            "total": 69
+        },
+        {
+            "name": "jez",
+            "order": 4,
+            "corp": "mining",
+            "tr": 32,
+            "vp": 6,
+            "board": 14,
+            "bonus": 2,
+            "total": 54
+        },
+        {
+            "name": "todd",
+            "order": 5,
+            "corp": "robinson",
+            "tr": 27,
+            "vp": 10,
+            "board": 18,
+            "bonus": 7,
+            "total": 62
+        }
+    ]
+}
